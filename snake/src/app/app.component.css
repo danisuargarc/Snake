@@ -1,0 +1,31 @@
+.top {
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+html, body, header, footer {
+  background-color: lightskyblue;
+}
+
+.key {
+  height: 50px;
+  width: 50px;
+}
+
+.grid {
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.scoreboard {
+  text-align: center;
+  background-color: whitesmoke;
+  min-width: 250px;
+}
+
+.round-border {
+  margin: 5px;
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+}
